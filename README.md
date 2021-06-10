@@ -1,10 +1,3 @@
-<div>
-  <img align="left" src="https://i.imgur.com/ufUYAFh.png" width=35 alt="Profile"/>
-  <sub><a href="github.com/joaovictornsv"><kbd><b>Author: João Victor</b></kbd></a></sub>
-</div>
-
----
-  
 <div align="center">
   <h1>Setup NodeJS</h1>
   <h4>Git | Typescript | ESLint | Jest | Babel | Husky | Lint-Staged</h4>
@@ -178,3 +171,9 @@ yarn husky add .husky/pre-commit 'lint-staged'
 ```bash
 yarn husky add .husky/pre-push 'yarn test:coverage'
 ```
+
+---
+<div>
+  <img align="left" src="https://i.imgur.com/ufUYAFh.png" width=30 alt="Profile"/>
+  <sub>Made with 💙 by <a href="github.com/joaovictornsv">João Victor</a></sub>
+</div>
