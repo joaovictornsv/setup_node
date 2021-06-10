@@ -1,5 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=30/>
-
+<div align="right">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=30/>
+</div>
 <div align="center">
   <h1>Setup NodeJS</h1>
   <h4>Git | Typescript | ESLint | Jest | Babel | Husky | Lint-Staged</h4>
