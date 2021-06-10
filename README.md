@@ -1,7 +1,17 @@
+<div>
+  <img align="left" src="https://i.imgur.com/ufUYAFh.png" width=35 alt="Profile"/>
+  <sub><a href="github.com/joaovictornsv"><kbd><b>Author: João Victor</b></kbd></a></sub>
+  <img align="right" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=35/>
+  <img align="right" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=35/>
+  <img align="right" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=35/>
+</div>
+
+---
+  
 <div align="center">
   <h1>Setup NodeJS</h1>
   <h4>Git | Typescript | ESLint | Jest | Babel | Husky | Lint-Staged</h4>
-  <h4> Nodemon, Sequelize config coming soon</h4>
+  <h4><kbd>Sequelize config coming soon</kbd></h4>
 </div>
 
 ## Git
