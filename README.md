@@ -17,7 +17,7 @@
 ## How to install scripts:
 ### 1. Clone this repository
 ```
-$ git clone https://github.com/joaovictornsv/setup_node
+$ git clone https://github.com/joaovictornsv/setup_node.git
 ```
 In root of the repository you will see the following files:
 ```
@@ -26,7 +26,8 @@ In root of the repository you will see the following files:
 - 📄 chmod.sh
 ```
 
-### 2. Now, open the terminal in root of the repository. Then copy the code in `chmod.sh`, paste in your terminal and run:
+### 2. Changing execute permission
+Now open the terminal in root of the repository. Then copy the code in `chmod.sh`, paste in your terminal and run:
 
 ```bash
 $ for filename in scripts/*.sh; do
