@@ -3,7 +3,6 @@ PACKAGEJSON="https://gist.githubusercontent.com/joaovictornsv/25b62efad70e92fc9b
 GITIGNORE="https://gist.githubusercontent.com/joaovictornsv/25b62efad70e92fc9b6fde6d0473420c/raw/306d4d4ceedc332968483cd3ec4bb9ca96441415/.gitignore"
 JESTCONFIG="https://gist.githubusercontent.com/joaovictornsv/25b62efad70e92fc9b6fde6d0473420c/raw/f5ab37d29b05e09b3622c6367f888f0bf71b9667/jest.config.js"
 LINTSTAGEDRC="https://gist.githubusercontent.com/joaovictornsv/25b62efad70e92fc9b6fde6d0473420c/raw/f5ab37d29b05e09b3622c6367f888f0bf71b9667/.lintstagedrc.js"
-SEQUELIZERC="https://gist.githubusercontent.com/joaovictornsv/25b62efad70e92fc9b6fde6d0473420c/raw/4bc1f0d9675f3e9d27268da539176c278f3a22ee/.sequelizerc"
 
 GREEN="\033[1;32m";
 WHITE="\033[1;37m";
@@ -51,8 +50,6 @@ echo -e "${WHITE}> [setup] [4/5] Copying configuration files...${RESET}";
 curl $JESTCONFIG > jest.config.js;
 
 curl $LINTSTAGEDRC > .lintstagedrc.js;
-
-curl $SEQUELIZERC > .sequelizerc
 
 echo -e "${WHITE}> [setup] [5/5] Setting husky...${RESET}";
 
