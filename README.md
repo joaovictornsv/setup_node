@@ -30,6 +30,10 @@ $ git clone https://github.com/joaovictornsv/setup_node.git
 In root of the repository you will see the following files:
 ```
 - 📁 scripts
+- 📄 JAVASCRIPT.md
+- 📄 LICENSE
+- 📄 README.md
+- 📄 TYPESCRIPT.md
 - 📄 chmod.sh
 ```
 
