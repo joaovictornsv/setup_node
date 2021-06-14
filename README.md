@@ -36,9 +36,9 @@ done;
 This code change the permission to run scripts. Otherwise the scripts will not run.
 
 ### 3. Set the path to scripts
-On line 34 of `index.sh` file, set complete path to the scripts folder
+On top of `index.sh` file, set complete path to the scripts folder
 ```
-PATH=/home/user/.../setup_node/scripts/
+SCRIPTS=/home/user/.../setup_node/scripts/
 ```
 
 ### 4. Create an alias
@@ -108,7 +108,7 @@ To install the select setup to install you must pass a flags with alias
   - Lint-Staged
 </details>
 
-> Requires yarn initialized.
+> Requires git and yarn initialized.
 
 
 `--huskyjs`: Husky setup for Javascript project.
