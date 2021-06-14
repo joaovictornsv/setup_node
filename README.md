@@ -22,7 +22,6 @@ $ git clone https://github.com/joaovictornsv/setup_node.git
 In root of the repository you will see the following files:
 ```
 - 📁 scripts
-- 📄 env.example
 - 📄 chmod.sh
 ```
 
@@ -37,8 +36,7 @@ done;
 This code change the permission to run scripts. Otherwise the scripts will not run.
 
 ### 3. Set the path to scripts
-Create a `.env` file with complete path to the scripts folder.
-Example:
+On top of `index.sh` file, set complete path to the scripts folder
 ```
 PATH=/home/user/.../setup_node/scripts/
 ```
