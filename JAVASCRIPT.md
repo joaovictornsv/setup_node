@@ -16,7 +16,7 @@
 [➜ Git](#git)<br>
 [➜ Express](#express)<br>
 [➜ Nodemon](#nodemon)<br>
-[➜ Eslint](#eslint)<br>
+[➜ ESlint](#eslint)<br>
 [➜ Jest](#jest)<br>
 [➜ Husky and Lint-Staged](#husky-and-lint-staged)
 
