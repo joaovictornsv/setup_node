@@ -5,7 +5,7 @@
 </div>
 
 ---
-<h2 id="conteudos">Contents</h2>
+<h2>Contents</h2>
 
 [➜ Manual installation](#see-all-manual-installation-instructions)<br>
 [➜ How to install scripts](#how-to-install-scripts)<br>
