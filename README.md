@@ -122,6 +122,14 @@ To install the select setup to install you must pass a flags with alias
 $ setupnode --typescript
 ```
 
+---
+
+## License
+- MIT License - [About](https://github.com/joaovictornsv/setup_node/blob/master/LICENSE)
+
+---
+
+
 <div>
   <img align="left" src="https://i.imgur.com/ufUYAFh.png" width=35 alt="Profile"/>
   <sub>Made with 💙 by <a href="https://github.com/joaovictornsv">João Victor</a></sub>
