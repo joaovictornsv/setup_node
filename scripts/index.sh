@@ -1,5 +1,4 @@
 #!/bin/bash
-PATH=/home/joaov/Codes/Terminal/setup_node/scripts/
 ARRAY=('_typescript_' '_javascript_' '_jestjs_' '_jestts_' '_huskyjs_' '_huskyts_');
 LIBS=()
 
@@ -32,6 +31,7 @@ else
   if [ "${decision,,// /}" = 'yes' ] || [ "${decision,,// /}" =  'y' ];
   then
     echo -e "${GREEN}Installing...${RESET}";
+    PATH=/home/joaov/Codes/Terminal/setup_node/scripts/
     for lib in ${LIBS[@]}; do
       $PATH$lib.sh
     done;

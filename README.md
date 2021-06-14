@@ -36,7 +36,7 @@ done;
 This code change the permission to run scripts. Otherwise the scripts will not run.
 
 ### 3. Set the path to scripts
-On top of `index.sh` file, set complete path to the scripts folder
+On line 34 of `index.sh` file, set complete path to the scripts folder
 ```
 PATH=/home/user/.../setup_node/scripts/
 ```
