@@ -4,7 +4,15 @@
   <h4>Javascript and Typescript</h4>
 </div>
 
-<br/>
+---
+<h2 id="conteudos">Contents</h2>
+
+[➜ Manual installation](#see-all-manual-installation-instructions)<br>
+[➜ How to install scripts](#how-to-install-scripts)<br>
+[➜ How to use](#how-to-use)<br>
+
+
+---
 
 ## See all manual installation instructions:
 
@@ -120,6 +128,9 @@ To install the select setup to install you must pass a flags with alias
 ```bash
 $ setupnode --typescript
 ```
+<div align="center">
+  <img src="https://i.imgur.com/74iLyth.gif">
+</div>
 
 ---
 
