@@ -2,7 +2,7 @@
 PACKAGEJSON="https://gist.githubusercontent.com/joaovictornsv/039bb193dac7056671916bbb13378511/raw/85097bcd93b24cbc94b2e13547712a60fcacf8f4/package.json"
 GITIGNORE="https://gist.githubusercontent.com/joaovictornsv/25b62efad70e92fc9b6fde6d0473420c/raw/306d4d4ceedc332968483cd3ec4bb9ca96441415/.gitignore"
 TSCONFIG="https://gist.githubusercontent.com/joaovictornsv/039bb193dac7056671916bbb13378511/raw/273b8fe74911c304c3a46cf6ff201e9adf53e36f/tsconfig.json"
-JESTCONFIG="https://gist.githubusercontent.com/joaovictornsv/039bb193dac7056671916bbb13378511/raw/273b8fe74911c304c3a46cf6ff201e9adf53e36f/jest.config.ts"
+JESTCONFIG="https://gist.githubusercontent.com/joaovictornsv/039bb193dac7056671916bbb13378511/raw/a53e244f1e61fb6bd79d036b4c54d7b771d747b5/jest.config.ts"
 BABELCONFIG="https://gist.githubusercontent.com/joaovictornsv/039bb193dac7056671916bbb13378511/raw/273b8fe74911c304c3a46cf6ff201e9adf53e36f/babel.config.js"
 LINTSTAGEDRC="https://gist.githubusercontent.com/joaovictornsv/039bb193dac7056671916bbb13378511/raw/a53e244f1e61fb6bd79d036b4c54d7b771d747b5/.lintstagedrc.js"
 
