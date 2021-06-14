@@ -12,10 +12,10 @@ select opt in "${options[@]}"
 do
     case $opt in
         "Typescript")
-            echo -e "\n${WHITE}Starting${RESET} ${BLUE}Typescript${RESET}${WHITE} setup...${RESET}\n" && /home/joaov/Codes/Terminal/setup_shell/typescript.sh && break
+            echo -e "\n${WHITE}Starting${RESET} ${BLUE}Typescript${RESET}${WHITE} setup...${RESET}\n" && /home/joaov/Codes/Terminal/setup_node/scripts/typescript.sh && break
             ;;
         "Javascript")
-            echo -e "\n${WHITE}Starting${RESET} ${YELLOW}Javascript${RESET}${WHITE} setup...${RESET}\n" && /home/joaov/Codes/Terminal/setup_shell/javascript.sh && break
+            echo -e "\n${WHITE}Starting${RESET} ${YELLOW}Javascript${RESET}${WHITE} setup...${RESET}\n" && /home/joaov/Codes/Terminal/setup_node/scripts/javascript.sh && break
             ;;
         "Quit")
             break
