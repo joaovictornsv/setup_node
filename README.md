@@ -25,7 +25,7 @@
 ## How to install scripts:
 ### 1. Clone this repository
 ```
-$ git clone https://github.com/joaovictornsv/setup_node.git
+git clone https://github.com/joaovictornsv/setup_node.git
 ```
 In root of the repository you will see the following files:
 ```
@@ -41,7 +41,7 @@ In root of the repository you will see the following files:
 Now open the terminal in root of the repository. Then copy the code in `chmod.sh`, paste in your terminal and run:
 
 ```bash
-$ for filename in scripts/*.sh; do
+for filename in scripts/*.sh; do
   chmod +x $filename;
 done;
 ```
@@ -130,7 +130,7 @@ To install the select setup to install you must pass a flags with alias
 
 ### Example
 ```bash
-$ setupnode --typescript
+setupnode --typescript
 ```
 <div align="center">
   <img src="https://i.imgur.com/74iLyth.gif">
