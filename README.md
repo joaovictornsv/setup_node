@@ -104,8 +104,8 @@ To install the select setup to install you must pass a flags with alias
 <details>
   <summary>Libs</summary>
 
-  - Husky
-  - Lint-Staged
+  - Jest
+  - Babel (Typescript setup)
 </details>
 
 `--jestjs`: Jest setup for Javascript project.
