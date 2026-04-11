@@ -127,15 +127,6 @@ To install the select setup to install you must pass a flags with alias
 
 `--huskyts`: Husky setup for Typescript project.
 
-
-### Example
-```bash
-setupnode --typescript
-```
-<div align="center">
-  <img src="https://i.imgur.com/74iLyth.gif">
-</div>
-
 ---
 
 ## License
